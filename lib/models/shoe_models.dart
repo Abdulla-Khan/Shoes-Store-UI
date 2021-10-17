@@ -23,7 +23,7 @@ class ShoeModel {
     ShoeModel(
         name: "Converse X OPI Chuck Taylor",
         decs:
-            "Familiar but always Fresh, the iconic Air jordan 1 is remastered for today's sneakerhead culture. This Retro High OG version goes all in with full-grain leather, comfortable cushioning and classic design details.",
+            "Familiar but always Fresh, the iconic Converse collaborated with Chuck Taylor for today's sneakerhead culture.",
         price: 184,
         color: AppColors.yellowColor,
         brand: "Converse",
